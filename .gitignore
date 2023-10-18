@@ -1,5 +1,0 @@
-*.replit
-*replit.nix
-*poetry.lock
-*venv
-*.breakpoints
